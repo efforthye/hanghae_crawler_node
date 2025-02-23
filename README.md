@@ -14,6 +14,8 @@ node src/getAssignmentData.js
 ### 4. Check Results
 - Raw 데이터: results/allAssignments.json
 - 가공된 데이터: results/assignments.json
+---
+<br/><br/>
 
 ## Result Structure
 - Raw 데이터 구조
